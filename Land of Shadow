@@ -1,0 +1,12 @@
+A Supertux worldmap I'd like to upload, but I'm new to GitHub and would appriciate guidance on the .nfo file format. 
+
+(supertux-addoninfo
+  (id "land-of-shadow")
+  (version 9)
+  (type "worldmap")
+  (title "Land of Shadow")
+  (author "Dave")
+  (license "None")
+  (url "https://raw.githubusercontent.com/SuperTux/addons/land-of-shadow-commit-hash/repository/land-of-shadow")
+  (md5 "land-of-shadow-md5-checksum")
+)
